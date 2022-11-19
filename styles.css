@@ -1,0 +1,23 @@
+body {
+    margin: 40px;
+    padding: 40px;
+    background-color: gray;
+}
+
+section {
+    background-color:darksalmon;
+}
+
+h1 {
+    background-color: aqua;
+    display: inline-block;
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+button {
+    background-size: 10px;
+}
